@@ -1,11 +1,5 @@
-import static org.junit.Assert.*;
 
 import org.junit.Test;
-
-
-
-
-
 import static org.junit.Assert.*;
 
 import java.security.KeyStore.Entry;
@@ -21,14 +15,14 @@ import org.junit.Test;
 public class WordSearch {
 
 	/*char wordArray[][] =     {{'A','B','C','O','R','B'},
-			                  {'X','Y','Z','A','C','K'},
-			                  {'K','B','X','Y','L','A'},
-			                  {'C','D','F','E','G','I'}};*/
+			            {'X','Y','Z','A','C','K'},
+			            {'K','B','X','Y','L','A'},
+			            {'C','D','F','E','G','I'}};*/
 	
 	char wordArray[][] =     {{'A','B','C','O','R','C'},
-							  {'X','Y','R','A','C','K'},
-							  {'K','E','C','Y','L','A'},
-							  {'A','L','F','O','G','I'}};	
+				  {'X','Y','R','A','C','K'},
+				  {'K','E','C','Y','L','A'},
+				  {'A','L','F','O','G','I'}};	
 	
 	
 	private String str="ORACLE";
