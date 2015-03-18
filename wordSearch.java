@@ -55,6 +55,7 @@ public class WordSearch {
 			for (Map.Entry<Character,ArrayList<Integer>> entry : hm.entrySet()){
 				System.out.println("Character -> " +entry.getKey() + "Index i,j -> "+entry.getValue());
 			}
+			System.exit(0);
 		}
 		
 		boolean CL = checkLeft(ci,i,j-1);
