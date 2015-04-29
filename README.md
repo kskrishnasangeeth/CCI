@@ -1,2 +1,2 @@
 # CCI
-Solving Gayle 's Cracking the Coding Interview
+Algorithm  Puzzles and problems curated from various sources.
